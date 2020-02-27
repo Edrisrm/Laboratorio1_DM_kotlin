@@ -1,0 +1,4 @@
+package carro
+
+interface CarroI {
+}
